@@ -7,12 +7,12 @@
 ### Important Information	
 
 1. 在[github](https://github.com/StephLee12/TA-RL)和QQ群同步更新代码demo和课程设计信息
-2. **Deadline**: 未确定
+2. **Deadline**: 4月26日（第10周）
 
 ### Goals
 
 1. 熟悉团队协作编写代码
-2. 熟悉RL经典算法, i.e., PPO, DQN, etc.,  理解背后算法原理
+2. 熟悉RL经典算法, i.e., PPO, DDPG, etc.,  理解背后算法原理
 3. 使用Mujoco环境实践强化学习算法
 4. 最后进行课设汇报展示
 
@@ -45,8 +45,9 @@
 ## Submission
 
 1. 代码和ppt一起压缩打包发送到邮箱---245012580@qq.com 
-1. 邮件主题格式：压缩名命名格式：
-1. **Deadline**
+1. 邮件主题格式：课设1-第X组 
+1. 压缩包名命名格式：课设1-第X组
+1. **Deadline:4月26日（第10周）**
 
 ## Tips
 
